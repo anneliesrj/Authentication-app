@@ -46,7 +46,7 @@ To use the Frontend of this project, React needs to be installed. Follow these s
 Before you can use the backend of this project, you'll need to install Express and Mongoose. These are essential Node.js packages for creating a server and connecting to a MongoDB database. If you don't have them installed already, follow these steps:
 
 1. Open your terminal or command prompt.
-2. Make sure you're in the project's root directory, and then navigate to the `backend` directory: `cd backend`
+2. Make sure you're in the project's root directory, and then navigate to the `server` directory: `cd server`
 3. Initialise a Node.js Project: `npm init -y`
 4. Install Express and Mongoose: `npm install express mongoose`
 5. Start the backend: `node app.js`
